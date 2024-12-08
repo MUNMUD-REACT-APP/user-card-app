@@ -5,6 +5,11 @@ https://chatgpt.com/share/6755be41-d124-800c-aa7f-9ebb0508d034
 Note: Should click on copy button to copy contain Readme.md
 ![image](https://github.com/user-attachments/assets/8e718908-3409-4511-bdad-dabe4597b87a)
 
+# Open code space instead of coding at of local side
+![image](https://github.com/user-attachments/assets/5f8ba562-8711-4139-831f-88006f43549d)
+![image](https://github.com/user-attachments/assets/42012aa9-7350-4bb9-8492-0b156f63cf14)
+
+
 # User Card App
 
 A simple React application demonstrating how to create reusable components and enforce prop types using `PropTypes`.
